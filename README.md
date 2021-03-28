@@ -1,5 +1,4 @@
 # Acsign
-
 acfun签到脚本
 
 ## 文本配置（使用task.json）
