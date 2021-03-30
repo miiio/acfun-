@@ -3,7 +3,7 @@ name: 'Acsign'
 on:
   push:
   schedule:
-    - cron: '0 15 * * *' # 北京时间凌晨1点
+    - cron: '2 16 * * *' # 北京时间凌晨0点
 
 jobs:
   acsign:
