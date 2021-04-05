@@ -10,7 +10,7 @@ crontab添加
 0 0 * * * php [YOUR_PATH]/run.php
 ```
 
-其中`YOUR_PATH`为脚本所在目录（为了您的帐号安全，建议使用本方式时**task.json**文件不可被外界直接访问!）
+其中`YOUR_PATH`为脚本所在目录（为了您的帐号安全，建议使用本方式时**task.json**文件不可被外界直接访问!!）
 
 ## CLI
 
